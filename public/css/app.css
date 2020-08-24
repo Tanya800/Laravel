@@ -1,0 +1,63 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #fff;
+  color: #636b6f;
+  font-family: "Nunito", sans-serif;
+  font-weight: 200;
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  padding: 10px;
+}
+
+header {
+  background: #828282;
+  justify-content: space-around;
+  display: flex;
+  padding: 5px;
+  text-align: center;
+}
+
+.menu {
+  color: white;
+  font-size: 28px;
+  padding: 10px;
+  margin: 2px;
+  texy-size: 12pt;
+  text-decoration: none;
+}
+
+.formHome {
+  padding: 15px;
+}
+
+.formPost {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+TABLE {
+  border-collapse: collapse;
+  width: 300px;
+}
+
+TH,
+TD {
+  border: 1px solid black;
+  text-align: center;
+  padding: 4px;
+}
+
+TH {
+  background: #fc0;
+  height: 40px;
+  vertical-align: bottom;
+  padding: 0;
+}
+
